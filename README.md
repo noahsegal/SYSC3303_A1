@@ -2,9 +2,9 @@
 
 This project contains three Java classes:
 
-Sever.java
-IntermediateHost.java
-Client.java
+1. Sever.java
+2. IntermediateHost.java
+3. Client.java
 
 Server.java simulates an actual server. It receives Client requests (via the IntermediateHost) and returns a response to the Client (again, via the IntermediateHost).
 
